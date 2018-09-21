@@ -4,6 +4,8 @@ inetutils-ping
 mercurial
 man-db
 manpages
+manpages-dev
+manpages-posix-dev
 nano
 pkg-config
 python
