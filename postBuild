@@ -28,4 +28,4 @@ cat >> $HOME/.bashrc << EOF
 export PS1='$> '
 EOF
 
-/bin/rm -rf	testdata conda-bld apt.txt
+/bin/rm -rf	testdata conda-bld apt.txt requirements.txt postBuild
