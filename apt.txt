@@ -1,5 +1,6 @@
 curl
 git
+inetutils-ping
 mercurial
 man-db
 manpages
