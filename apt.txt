@@ -3,7 +3,6 @@ git
 mercurial
 man-db
 manpages
-manpages-posix
 nano
 pkg-config
 python
