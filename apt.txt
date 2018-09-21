@@ -1,0 +1,12 @@
+curl
+git
+mercurial
+man-db
+manpages
+manpages-posix
+nano
+pkg-config
+python
+python3
+tree
+unzip
