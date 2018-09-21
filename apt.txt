@@ -1,5 +1,6 @@
 curl
 git
+golang
 inetutils-ping
 mercurial
 man-db
@@ -9,6 +10,10 @@ manpages-posix-dev
 nano
 pkg-config
 python
+python-numpy
+python-matplotlib
 python3
+python3-numpy
+python3-matplotlib
 tree
 unzip
